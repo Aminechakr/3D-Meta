@@ -16,7 +16,7 @@ Contract adress `0x1716316f7452Bb29f2aF954C4212bD33a9a41b47`.
 
 # How to ?
 
-- Clone repository and open using Vscode, use `Go live` pluging for running quickly the live server.
+- Clone repository and open using Vscode, use `Go live` plugin for running quickly the live server.
 
 - Once the 3D scene is running in `localhost` make sure your metamask wallet is connected.
 
